@@ -1,0 +1,104 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Header in side Div */
+#header {
+  background-color: rgb(227, 227, 227);
+  height: 5rem;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* All main div in Display flex main */
+#allMaindiv {
+  height: 20rem;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+/* All inner div */
+#redDiv {
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  height: 10rem;
+  width: 10rem;
+  margin: 2.5rem;
+  border-radius: 0.2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#blueDiv {
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  height: 10rem;
+  width: 10rem;
+  margin: 2.5rem;
+  border-radius: 0.2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#greeDiv {
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  height: 10rem;
+  width: 10rem;
+  margin: 2.5rem;
+  border-radius: 0.2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#yellowDiv {
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  height: 10rem;
+  width: 10rem;
+  margin: 2.5rem;
+  border-radius: 0.2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#inputButten {
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#textInput {
+  height: 2rem;
+  width: 20rem;
+  border-radius: 0.2rem;
+  font-size: 1rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button {
+  cursor: grab;
+  height: 2.1rem;
+  width: 5rem;
+  text-transform: capitalize;
+  margin-left: 0.5rem;
+  border-radius: 0.2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#buttonAll:hover {
+  height: 2.3rem;
+  width: 5.2rem;
+  background-color: rgb(211, 211, 211);
+}
